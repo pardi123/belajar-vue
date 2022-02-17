@@ -1,0 +1,22 @@
+.banner {
+    background: url("img/background1.JPG") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #bb2d3b;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
